@@ -6,7 +6,7 @@ var vm = new Vue({
 				name: '日曆系列-賞鷹平台',
 				price: 100,
 				content: "選用臺灣本土人文特色、傳統建築為素材製作，賞鷹平台位於與八卦山大佛相對的另一個山頭的制高點，除了可以看見過境的灰面鵟鷹外，在兩個山頭間的山谷地形，更是灰面鵟鷹捕食的最佳觀賞場所，",
-				thumb: "img/pd1.jpg",
+				thumb: "img/PD1.jpg",
 				amount: 0,
 				amountShow: 1,
 				id: "tab1",

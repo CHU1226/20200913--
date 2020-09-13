@@ -212,7 +212,7 @@ section{
 .ab-box>div{
 	margin: auto;
 	width: 80%;
-	height: 50%;
+	height: 60%;
 }
 .ab-box::before{
     position: absolute;

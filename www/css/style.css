@@ -95,13 +95,13 @@ section{
     overflow: hidden;
 }
 #home{
-	background: url(../img/homebg1.JPG) center no-repeat;
+	background: url(../img/homebg1.jpg) center no-repeat;
 	background-size: cover;
 	animation: slide calc(4*4s) infinite;
 }
 @keyframes slide{
 	0%,100%{
-		background: url(../img/homebg1.JPG) center no-repeat;
+		background: url(../img/homebg1.jpg) center no-repeat;
 		background-size: cover;
 	}
 	25%{

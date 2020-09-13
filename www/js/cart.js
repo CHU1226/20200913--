@@ -24,7 +24,7 @@ var vm = new Vue({
 				name: '日曆系列-布袋戲(戲偶)',
 				price: 100,
 				content: "選用臺灣本土人文特色、傳統建築為素材製作，布偶的頭是用木頭雕刻成中空的人頭，布袋戲偶身之軀幹是用布料做出的服裝；演出時，將手套入戲偶的服裝中進行操偶表演。",
-				thumb: "img/pd3.jpg",
+				thumb: "img/pd3.JPG",
 				amount: 0,
 				amountShow: 1,
 				id: "tab3",
